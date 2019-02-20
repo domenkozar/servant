@@ -1,6 +1,6 @@
 cabal-version:       >=1.10
 name:                servant-client
-version:             0.15
+version:             0.16
 x-revision:          1
 
 synopsis:            Automatic derivation of querying functions for servant
